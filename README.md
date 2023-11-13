@@ -5,6 +5,7 @@
 3. [Skills](#skills)
 4. [Courses](#courses)
 5. [Tools](#tools)
+6. [Examples of work](#examples-of-work)
 
 
 # About Me
@@ -54,5 +55,16 @@ You can download my CV from my [Google Drive.](https://drive.google.com/file/d/1
 * Able to create an Ubuntu Linux virtual machine and operate it
 
 **Postman**
+
+# Examples of work
+
+**Bug reports in Jira**
+
+* Bug 1: Here is [the screenshot of the bug report](https://drive.google.com/file/d/10TYYh83ffWGUuqMYgp6xn5iP0XtR2nuD/view?usp=sharing)
+
+* Bug 2: Here is [the screenshot of the bug report](https://drive.google.com/file/d/16uz_6FfqK7LDIkPWZdGA7rH2RWX3SH81/view?usp=sharing)
+
+* Jira Project : Here is [the screenshot of the Jira project](https://drive.google.com/file/d/1cbAToHB-Ql9wFTpa5ZPRP8NawnzxDQQD/view?usp=sharing)
+
 
 
