@@ -66,5 +66,9 @@ You can download my CV from my [Google Drive.](https://drive.google.com/file/d/1
 
 * Jira Project : Here is [the screenshot of the Jira project](https://drive.google.com/file/d/1cbAToHB-Ql9wFTpa5ZPRP8NawnzxDQQD/view?usp=sharing)
 
+**Python projects**
+
+* Calculator app: [Here](https://github.com/chrisionescu/portofolio/blob/main/calculator.py) is the link to the calculator.py file. It is a simple calculator app made with Tkinter GUI library for Python. //Added a "history" function on the right side of the UI that displays the previous calculations. 
+
 
 
