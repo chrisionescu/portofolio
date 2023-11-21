@@ -14,7 +14,7 @@ I am a recent graduate in Medical Engineering with a strong aspiration to excel 
 
 # CV
 
-You can download my CV from my [Google Drive.](https://drive.google.com/file/d/1EB21WPJPZcbl7L363YtXpqNPg7U5OTmq/view?usp=sharing)
+You can download my CV from my [Google Drive](https://drive.google.com/file/d/1EB21WPJPZcbl7L363YtXpqNPg7U5OTmq/view?usp=sharing).
 # Skills
 * Manual Testing
   
@@ -58,13 +58,17 @@ You can download my CV from my [Google Drive.](https://drive.google.com/file/d/1
 
 # Examples of work
 
+**Test Scenarios and Test Cases creation**
+
+* I leveraged a live project showcased on YouTube as inspiration for enhancing my expertise in manual testing. Building upon the concepts demonstrated, I crafted additional test cases aligned with the project's documentation. This hands-on experience not only broadened my understanding of manual testing but also honed my skills in test planning. It served as a pivotal opportunity to merge theoretical knowledge with practical application. The Excel spreadsheet can be viewed on my [Google Drive](https://docs.google.com/spreadsheets/d/10xG1tDaTZzTWb3bhSMevDmmMXRJVya_s/edit?usp=sharing&ouid=111558278977789478486&rtpof=true&sd=true).
+
 **Bug reports in Jira**
 
-* Bug 1: Here is [the screenshot of the bug report](https://drive.google.com/file/d/10TYYh83ffWGUuqMYgp6xn5iP0XtR2nuD/view?usp=sharing)
+* Bug 1: Here is [the screenshot of the bug report](https://drive.google.com/file/d/10TYYh83ffWGUuqMYgp6xn5iP0XtR2nuD/view?usp=sharing).
 
-* Bug 2: Here is [the screenshot of the bug report](https://drive.google.com/file/d/16uz_6FfqK7LDIkPWZdGA7rH2RWX3SH81/view?usp=sharing)
+* Bug 2: Here is [the screenshot of the bug report](https://drive.google.com/file/d/16uz_6FfqK7LDIkPWZdGA7rH2RWX3SH81/view?usp=sharing).
 
-* Jira Project : Here is [the screenshot of the Jira project](https://drive.google.com/file/d/1cbAToHB-Ql9wFTpa5ZPRP8NawnzxDQQD/view?usp=sharing)
+* Jira Project : Here is [the screenshot of the Jira project](https://drive.google.com/file/d/1cbAToHB-Ql9wFTpa5ZPRP8NawnzxDQQD/view?usp=sharing).
 
 **Python projects**
 
