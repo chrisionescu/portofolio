@@ -1,8 +1,9 @@
 import tkinter as tk
-from tkinter import ttk
+
 
 calculation = ""
 result = ""
+
 
 def add_to_calculation(symbol):
     global calculation
@@ -16,21 +17,22 @@ def evaluate_calc():
     global result
     try:
         text_history['state'] = 'disabled'
-        calc1 = calculation
+        calc_history = calculation
         calculation = str(eval(calculation))
         text_result.delete(1.0, "end")
         text_result.insert(1.0, calculation)
-        text_history['state'] = 'normal'
-        result = calc1 + "=" + calculation + "\n"
-        text_history.insert(1.0,result)
-        text_history['state'] = 'disabled'
 
         
     except:
         clear_calc()
         text_result.insert(1.0, "Error")
-    if calculation == "":
-        text_result.insert(1.0, " Input calculation: ")
+        
+
+    finally:
+        text_history['state'] = 'normal'
+        result = calc_history + "=" + calculation + "\n"
+        text_history.insert(1.0,result)
+        text_history['state'] = 'disabled'
 
 
 def clear_calc():
@@ -39,11 +41,7 @@ def clear_calc():
     text_result.delete(1.0, "end")
 
 
-
 #####
-
-
-
 
 
 root = tk.Tk()
@@ -55,10 +53,7 @@ text_result = tk.Text(root,height=2,width=16,font=("Calibri", 24), background='#
 text_result.grid(columnspan=6)
 
 text_history = tk.Text(root, height=10, width=10, font=("Calibri", 20), background='#f6d9fc')
-
 text_history.grid(column=6,rowspan=6)
-
-
 
 
 
@@ -70,7 +65,6 @@ btn2.grid(row=2, column=2)
 
 btn3 = tk.Button(root, text="3", command=lambda:add_to_calculation(3), width=5, font=("Calibri", 14), background='#cd9ee6', activebackground='#6e237d')
 btn3.grid(row=2, column=3)
-
 
 btn4 = tk.Button(root, text="4", command=lambda:add_to_calculation(4), width=5, font=("Calibri", 14), background='#cd9ee6', activebackground='#6e237d')
 btn4.grid(row=3, column=1)
